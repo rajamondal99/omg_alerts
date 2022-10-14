@@ -3,5 +3,5 @@ javascript alerts
 
 Refer
 ```
-https://themesbrand.com/velzon/html/default/advance-ui-sweetalerts.html?debug=assets
+https://themesbrand.com/velzon/html/default/advance-ui-sweetalerts.html?debug=assets 
 ```
